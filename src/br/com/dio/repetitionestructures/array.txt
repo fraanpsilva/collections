@@ -1,0 +1,14 @@
+ARRAYS
+- Array é um objeto utilizado para armazenar sequencialmente dados do mesmo tipo
+- Permanecem com o mesmo tamanho depois de criados
+    Ao criar o array em java, temos que colocar o tamanho que esse array terá
+
+Array Unidimensional:
+    lista de variáveis de tipos de dados semelhantes, e cada variável poode ser acessada
+    distintamente especificando seu indice entre colchetes precedidos pelo nome dessa matriz
+Array Multidimensional:
+    é um array de arrays ou array de arrays unidimensionais. Para declarar a variável matriz
+    bidimensional, temos que especificar o nome da matriz seguido por dois colchetes, onde o
+    segundo conjunto de colchetes.
+    É armazenada na forma da matriz da coluna da linha, onde o primeiro indice indica a linha
+    e o segundo indice indica a coluna.
