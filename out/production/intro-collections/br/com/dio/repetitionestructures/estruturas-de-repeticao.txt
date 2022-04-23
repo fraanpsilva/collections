@@ -1,0 +1,53 @@
+ ESTRUTURA DE REPETIÇÃO
+
+ - O real poder dos computadores está na sua habilidade para repetir uma operação ou uma
+ serie de operações várias vezes.
+ - Cada repetição é chamada laço (loop) é um dos conceitos básicos da programação estruturada.
+ - Uma estrutura de repetição permite que uma sequência de comandos seja executada repetidamente,
+ caso determinadas condições sejam satisfeitas.
+ - As estruturas de repetição podem ser classificadas em:
+    * Repetição com teste no início (while)
+    * Repetição com teste no final (do-while)
+    * Repetição contada (for)
+ - O comando Break é utilizado para terminar de forma abrupta ume repetição - pode ser usado
+ fora da estrutura de repetição
+ - Quando o comando Continue é executado, os comandos restantes da repetição são ignorados e o
+ programa volta a testar novamente ou não. Continue é pouco utilizado
+
+ OPERADORES DE INCREMENTO E DECREMENTO
+ PRÉ-FIXADOS
+ somar uma unidade ao valor da variável: ++numero
+    * forma original: numero = numero + 1;
+                        (retorne numero)
+
+ Subtrair uma unidade do valor da variável: --numero
+    * forma original: numero = numero - 1;
+                        (retorne numero)
+
+PÓS-FIXADOS
+somar um ao valor da variável, retornando o valor original: numero++
+    * forma original: (retorne numero)
+                        numero = numero + 1;
+subtrair um ao valor da variável, retornando o valor original: numero--
+    * forma original: (retorne numero)
+                        numero = numero - 1;
+
+
+OPERAÇÕE ARITMÉTICAS
+PARA
+somar k unidades ao valor da variável:
+    atalho: numero += k
+    forma original: numero = numero + k
+
+subtrair k unidades ao valor da variável
+    atalho: numero -= k
+    forma original: numero = numero - k
+
+multiplicar k unidades ao valor da variável
+    atalho: numero *= k
+    forma original: numero = numero * k
+
+somar o valor da variável por k
+    atalho: numero /= k
+    forma original: numero = numero / k
+
